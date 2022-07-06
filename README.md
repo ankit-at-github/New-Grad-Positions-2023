@@ -33,3 +33,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Indeed](https://university.indeed.jobs/university/jobs/39977?lang=en-us) | Remote | Associate Research Engineer. Accepts F1 OPT and will sponsor work visas. |
 | [Capital One](https://www.capitalonecareers.com/job/mclean/technology-development-program-associate-2023/31238/31914108720) | US | Technology Development Program Associate |
 | [Virtu Financial](https://www.linkedin.com/jobs/search/currentJobId=3124821373&f_C=1224663&f_E=2&geoId=103644278&keywords=software%20engineer&location=United%20States) | New York, NY | Entry-Level Software Engineer |
+| [HP] (https://jobs.hp.com/jobdetails/15685704/software-firmware-engineer-recent-graduate-vancouver-wa/) | US | Software/Firmware Engineer (Recent Graduate) |
